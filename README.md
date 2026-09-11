@@ -53,6 +53,6 @@ in `output/`.
 - `output/figure3_low_hanging.png`
 - `output/figure4_adoption_stages.png`
 
-## Reproduction by
+## Reproduced by
 
 Muhammad Abdullah Tariq
