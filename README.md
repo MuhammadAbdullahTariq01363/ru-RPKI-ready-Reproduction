@@ -55,4 +55,4 @@ in `output/`.
 
 ## Reproduction by
 
-M Abdullah Tariq
+Muhammad Abdullah Tariq
